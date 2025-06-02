@@ -72,6 +72,18 @@ Simulated and tested in *Proteus*. Make sure all sensor modules and libraries ar
 
 ---
 
+## 👥 Contributors / Credits
+
+This project was developed by:
+
+- [Tanusha](https://github.com/Tanusha985)
+- [Md Adnan Khan](https://github.com/adnann3)
+
+
+Special thanks to our mentor Dr Divya Sharma for guidance.
+
+---
+
 ## 🙌 Contribution
 
 Feel free to fork, improve, or suggest changes. Pull requests are welcome!
